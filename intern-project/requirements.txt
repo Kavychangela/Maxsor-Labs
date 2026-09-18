@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+google-genai
+numpy
+scikit-learn
+python-dotenv
+httpx
+pytest
