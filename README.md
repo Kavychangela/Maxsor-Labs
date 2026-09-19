@@ -565,4 +565,4 @@ Current limitations include:
 
 ## Development Notes
 
-See [DEVELOPMENT.md](DEVELOPMENT.md) for implementation phases, development workflow, testing, and engineering decisions.
+See [DEVELOPMENT.md](intern-project/DEVELOPMENT.md) for implementation phases, development workflow, testing, and engineering decisions.
